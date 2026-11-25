@@ -1,0 +1,15 @@
+﻿cenario,descricao_cenario,algoritmo,jogada_computador,jogada_geral,simbolo_computador,tabuleiro,jogada_escolhida,valor_raiz,nos,transicoes,cortes,tempo_ms,tempo_medio_ms
+computador_inicia,Computador inicia (computador = X),minimax,1,1,X,.........,5,0,549946,549945,0,675.895,522.704796
+computador_inicia,Computador inicia (computador = X),minimax,2,3,X,O...X....,3,0,6812,6811,0,13.0323,12.667992
+computador_inicia,Computador inicia (computador = X),minimax,3,5,X,OOX.X....,7,1,158,157,0,0.2352,0.279572
+computador_inicia,Computador inicia (computador = X),alfa-beta,1,1,X,.........,5,0,7275,7274,3090,15.1084,14.101352
+computador_inicia,Computador inicia (computador = X),alfa-beta,2,3,X,O...X....,3,0,1157,1156,471,2.5246,2.057134
+computador_inicia,Computador inicia (computador = X),alfa-beta,3,5,X,OOX.X....,7,1,36,35,12,0.0602,0.07828
+humano_inicia,Humano inicia (computador = O),minimax,1,2,O,....X....,1,0,55505,55504,0,93.3857,96.780942
+humano_inicia,Humano inicia (computador = O),minimax,2,4,O,OX..X....,8,0,1055,1054,0,1.8895,1.966224
+humano_inicia,Humano inicia (computador = O),minimax,3,6,O,OXX.X..O.,7,1,45,44,0,0.0959,0.095064
+humano_inicia,Humano inicia (computador = O),minimax,4,8,O,OXXXX.OO.,9,1,4,3,0,0.009,0.00754
+humano_inicia,Humano inicia (computador = O),alfa-beta,1,2,O,....X....,1,0,1982,1981,860,3.2787,3.86656
+humano_inicia,Humano inicia (computador = O),alfa-beta,2,4,O,OX..X....,8,0,396,395,149,1.0191,0.743846
+humano_inicia,Humano inicia (computador = O),alfa-beta,3,6,O,OXX.X..O.,7,1,16,15,6,0.0155,0.013604
+humano_inicia,Humano inicia (computador = O),alfa-beta,4,8,O,OXXXX.OO.,9,1,4,3,1,0.0041,0.002912
